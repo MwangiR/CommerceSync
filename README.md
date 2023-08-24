@@ -18,8 +18,8 @@
 
 ## Description
 
-The E-commerce Back-End application provides internet retail companies with a MySQL database to manage categories, products, and tags related to their e-commerce business. 
-Built with Sequelize, an ORM (Object-Relational Mapping) dependency, this project enhances code readability, reusability, and maintainability by organizing larger files into manageable pieces. 
+The E-commerce Back-End application provides internet retail companies with a MySQL database to manage categories, products, and tags related to their e-commerce business.
+Built with Sequelize, an ORM (Object-Relational Mapping) dependency, this project enhances code readability, reusability, and maintainability by organizing larger files into manageable pieces.
 Users can test API routes using tools like Insomnia to view, post, update, and delete data from the database.
 
 ## Live Screen Recording
@@ -46,9 +46,9 @@ Watch a live demonstration of the application's functionality [here](https://dri
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/rmessett15/E-Commerce-Back-End.git`
+1. Clone the repository: `git clone https://github.com/MwangiR/CommerceSync.git`
 2. Open in VS Code. If not installed, [install VS Code](https://code.visualstudio.com/).
-3. Install Node.js v16 (e.g., using homebrew: `brew install node@16`).
+3. Install Node.js v16 (e.g., using npm: `npm i node@16`).
 4. Install from package.json: `npm i`
 5. To install dependencies independently:
    - sequelize: `npm i sequelize`
@@ -83,6 +83,7 @@ Now your database is populated with initial data and ready for testing.
 Once the server is up and running, you can test the functionality of the application using tools like [Insomnia](https://insomnia.rest/). Insomnia allows you to interact with the API routes you've set up in your application.
 
 Here are a few example API routes you can test:
+
 - GET `/api/categories`
 - POST `/api/categories`
 - PUT `/api/categories/:id`
