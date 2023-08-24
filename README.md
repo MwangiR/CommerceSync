@@ -24,12 +24,12 @@ Users can test API routes using tools like Insomnia to view, post, update, and d
 
 ## Live Screen Recording
 
-Watch a live demonstration of the application's functionality [here](https://drive.google.com/file/d/1n9GTOqCWvAQPhKhrQJxONTemGTg0sxaX/view).
+Watch a live demonstration of the application's functionality [here](https://us04web.zoom.us/clips/share/BHVzMDQgSnMKIXFMcpc3HXiXUO5KcfPC-ReePG5QWw3Dm71TDng).
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](./images/Screenshot.jpg)
+
 
 ## Technologies Used
 
