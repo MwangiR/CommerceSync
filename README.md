@@ -30,6 +30,7 @@ Watch a live demonstration of the application's functionality [here](https://us0
 
 ![Screenshot 1](./images/Screenshot.jpg)
 
+
 ## Technologies Used
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
